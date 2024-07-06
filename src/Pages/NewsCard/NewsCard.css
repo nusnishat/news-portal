@@ -1,0 +1,8 @@
+.author-img{
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: url(<path-to-image>), lightgray -19.616px 0px / 150% 100% no-repeat;
+    margin-top: 8px;
+}
